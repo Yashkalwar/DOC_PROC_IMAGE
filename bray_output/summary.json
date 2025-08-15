@@ -1,0 +1,559 @@
+{
+  "source": "https://www.bray.com/docs/default-source/manuals-guides/iom-manuals/en_iom_trilok-standard0f1daacad37449d99d8661eb939b667e.pdf",
+  "pages": {
+    "1": [
+      {
+        "page": 1,
+        "path": "./bray_output\\page_1\\page_1_region_0.png",
+        "width": 2062,
+        "height": 2639,
+        "source": "rendered_region",
+        "bbox": [
+          194,
+          312,
+          2256,
+          2951
+        ],
+        "caption": "M"
+      }
+    ],
+    "2": [
+      {
+        "page": 2,
+        "path": "./bray_output\\page_2\\page_2_region_1.png",
+        "width": 1372,
+        "height": 1049,
+        "source": "rendered_region",
+        "bbox": [
+          192,
+          284,
+          1564,
+          1333
+        ],
+        "caption": "A"
+      },
+      {
+        "page": 2,
+        "path": "./bray_output\\page_2\\page_2_region_0.png",
+        "width": 2066,
+        "height": 493,
+        "source": "rendered_region",
+        "bbox": [
+          193,
+          1712,
+          2259,
+          2205
+        ],
+        "caption": "m"
+      }
+    ],
+    "3": [
+      {
+        "page": 3,
+        "path": "./bray_output\\page_3\\page_3_region_1.png",
+        "width": 1370,
+        "height": 1487,
+        "source": "rendered_region",
+        "bbox": [
+          191,
+          427,
+          1561,
+          1914
+        ],
+        "caption": "m"
+      },
+      {
+        "page": 3,
+        "path": "./bray_output\\page_3\\page_3_region_0.png",
+        "width": 1368,
+        "height": 553,
+        "source": "rendered_region",
+        "bbox": [
+          192,
+          2064,
+          1560,
+          2617
+        ],
+        "caption": "m"
+      }
+    ],
+    "4": [
+      {
+        "page": 4,
+        "path": "./bray_output\\page_4\\page_4_region_0.png",
+        "width": 1369,
+        "height": 1902,
+        "source": "rendered_region",
+        "bbox": [
+          193,
+          672,
+          1562,
+          2574
+        ],
+        "caption": "3"
+      },
+      {
+        "page": 4,
+        "path": "./bray_output\\page_4\\page_4_embedded_0.png",
+        "width": 1098,
+        "height": 440,
+        "source": "embedded",
+        "xref": 11,
+        "bbox": null,
+        "caption": null
+      }
+    ],
+    "5": [
+      {
+        "page": 5,
+        "path": "./bray_output\\page_5\\page_5_region_0.png",
+        "width": 1186,
+        "height": 2329,
+        "source": "rendered_region",
+        "bbox": [
+          352,
+          384,
+          1538,
+          2713
+        ],
+        "caption": "4"
+      }
+    ],
+    "6": [
+      {
+        "page": 6,
+        "path": "./bray_output\\page_6\\page_6_region_0.png",
+        "width": 1187,
+        "height": 510,
+        "source": "rendered_region",
+        "bbox": [
+          353,
+          384,
+          1540,
+          894
+        ],
+        "caption": "5"
+      }
+    ],
+    "7": [
+      {
+        "page": 7,
+        "path": "./bray_output\\page_7\\page_7_region_1.png",
+        "width": 1369,
+        "height": 990,
+        "source": "rendered_region",
+        "bbox": [
+          193,
+          384,
+          1562,
+          1374
+        ],
+        "caption": "W"
+      },
+      {
+        "page": 7,
+        "path": "./bray_output\\page_7\\page_7_region_0.png",
+        "width": 1142,
+        "height": 222,
+        "source": "rendered_region",
+        "bbox": [
+          355,
+          1776,
+          1497,
+          1998
+        ],
+        "caption": "6"
+      }
+    ],
+    "8": [
+      {
+        "page": 8,
+        "path": "./bray_output\\page_8\\page_8_region_0.png",
+        "width": 2068,
+        "height": 1776,
+        "source": "rendered_region",
+        "bbox": [
+          191,
+          282,
+          2259,
+          2058
+        ],
+        "caption": "o"
+      }
+    ],
+    "9": [
+      {
+        "page": 9,
+        "path": "./bray_output\\page_9\\page_9_region_0.png",
+        "width": 1154,
+        "height": 606,
+        "source": "rendered_region",
+        "bbox": [
+          353,
+          384,
+          1507,
+          990
+        ],
+        "caption": "8"
+      }
+    ],
+    "10": [
+      {
+        "page": 10,
+        "path": "./bray_output\\page_10\\page_10_region_0.png",
+        "width": 1368,
+        "height": 1392,
+        "source": "rendered_region",
+        "bbox": [
+          192,
+          384,
+          1560,
+          1776
+        ],
+        "caption": "9"
+      }
+    ],
+    "11": [
+      {
+        "page": 11,
+        "path": "./bray_output\\page_11\\page_11_region_0.png",
+        "width": 1369,
+        "height": 1902,
+        "source": "rendered_region",
+        "bbox": [
+          193,
+          576,
+          1562,
+          2478
+        ],
+        "caption": "1"
+      }
+    ],
+    "12": [
+      {
+        "page": 12,
+        "path": "./bray_output\\page_12\\page_12_region_0.png",
+        "width": 1798,
+        "height": 2491,
+        "source": "rendered_region",
+        "bbox": [
+          322,
+          454,
+          2120,
+          2945
+        ],
+        "caption": "1"
+      }
+    ],
+    "13": [
+      {
+        "page": 13,
+        "path": "./bray_output\\page_13\\page_13_region_0.png",
+        "width": 2046,
+        "height": 2648,
+        "source": "rendered_region",
+        "bbox": [
+          191,
+          283,
+          2237,
+          2931
+        ],
+        "caption": "o"
+      }
+    ],
+    "14": [
+      {
+        "page": 14,
+        "path": "./bray_output\\page_14\\page_14_region_0.png",
+        "width": 1842,
+        "height": 2317,
+        "source": "rendered_region",
+        "bbox": [
+          298,
+          477,
+          2140,
+          2794
+        ],
+        "caption": "1"
+      }
+    ],
+    "15": [
+      {
+        "page": 15,
+        "path": "./bray_output\\page_15\\page_15_region_0.png",
+        "width": 2067,
+        "height": 2834,
+        "source": "rendered_region",
+        "bbox": [
+          191,
+          283,
+          2258,
+          3117
+        ],
+        "caption": "1"
+      }
+    ],
+    "16": [
+      {
+        "page": 16,
+        "path": "./bray_output\\page_16\\page_16_region_0.png",
+        "width": 1369,
+        "height": 2435,
+        "source": "rendered_region",
+        "bbox": [
+          199,
+          283,
+          1568,
+          2718
+        ],
+        "caption": "1"
+      }
+    ],
+    "17": [
+      {
+        "page": 17,
+        "path": "./bray_output\\page_17\\page_17_region_0.png",
+        "width": 1369,
+        "height": 2574,
+        "source": "rendered_region",
+        "bbox": [
+          200,
+          288,
+          1569,
+          2862
+        ],
+        "caption": "1"
+      }
+    ],
+    "18": [
+      {
+        "page": 18,
+        "path": "./bray_output\\page_18\\page_18_region_0.png",
+        "width": 1147,
+        "height": 2334,
+        "source": "rendered_region",
+        "bbox": [
+          395,
+          288,
+          1542,
+          2622
+        ],
+        "caption": "R"
+      }
+    ],
+    "19": [
+      {
+        "page": 19,
+        "path": "./bray_output\\page_19\\page_19_region_0.png",
+        "width": 1326,
+        "height": 1854,
+        "source": "rendered_region",
+        "bbox": [
+          202,
+          576,
+          1528,
+          2430
+        ],
+        "caption": "1"
+      }
+    ],
+    "20": [
+      {
+        "page": 20,
+        "path": "./bray_output\\page_20\\page_20_region_0.png",
+        "width": 1342,
+        "height": 2526,
+        "source": "rendered_region",
+        "bbox": [
+          194,
+          288,
+          1536,
+          2814
+        ],
+        "caption": "1"
+      }
+    ],
+    "21": [
+      {
+        "page": 21,
+        "path": "./bray_output\\page_21\\page_21_region_0.png",
+        "width": 1368,
+        "height": 2331,
+        "source": "rendered_region",
+        "bbox": [
+          192,
+          286,
+          1560,
+          2617
+        ],
+        "caption": "C"
+      }
+    ],
+    "22": [
+      {
+        "page": 22,
+        "path": "./bray_output\\page_22\\page_22_region_1.png",
+        "width": 1134,
+        "height": 1086,
+        "source": "rendered_region",
+        "bbox": [
+          395,
+          288,
+          1529,
+          1374
+        ],
+        "caption": "m"
+      },
+      {
+        "page": 22,
+        "path": "./bray_output\\page_22\\page_22_region_0.png",
+        "width": 1146,
+        "height": 1182,
+        "source": "rendered_region",
+        "bbox": [
+          396,
+          1488,
+          1542,
+          2670
+        ],
+        "caption": "2"
+      }
+    ],
+    "23": [
+      {
+        "page": 23,
+        "path": "./bray_output\\page_23\\page_23_region_1.png",
+        "width": 1130,
+        "height": 318,
+        "source": "rendered_region",
+        "bbox": [
+          396,
+          288,
+          1526,
+          606
+        ],
+        "caption": "R"
+      },
+      {
+        "page": 23,
+        "path": "./bray_output\\page_23\\page_23_region_0.png",
+        "width": 1148,
+        "height": 366,
+        "source": "rendered_region",
+        "bbox": [
+          395,
+          864,
+          1543,
+          1230
+        ],
+        "caption": "m"
+      }
+    ],
+    "24": [
+      {
+        "page": 24,
+        "path": "./bray_output\\page_24\\page_24_region_1.png",
+        "width": 2065,
+        "height": 1205,
+        "source": "rendered_region",
+        "bbox": [
+          192,
+          282,
+          2257,
+          1487
+        ],
+        "caption": "m"
+      },
+      {
+        "page": 24,
+        "path": "./bray_output\\page_24\\page_24_region_0.png",
+        "width": 2064,
+        "height": 1262,
+        "source": "rendered_region",
+        "bbox": [
+          192,
+          1636,
+          2256,
+          2898
+        ],
+        "caption": "o"
+      }
+    ],
+    "25": [
+      {
+        "page": 25,
+        "path": "./bray_output\\page_25\\page_25_region_1.png",
+        "width": 2064,
+        "height": 948,
+        "source": "rendered_region",
+        "bbox": [
+          192,
+          282,
+          2256,
+          1230
+        ],
+        "caption": "m"
+      },
+      {
+        "page": 25,
+        "path": "./bray_output\\page_25\\page_25_region_0.png",
+        "width": 2065,
+        "height": 851,
+        "source": "rendered_region",
+        "bbox": [
+          192,
+          1391,
+          2257,
+          2242
+        ],
+        "caption": "4"
+      }
+    ],
+    "26": [
+      {
+        "page": 26,
+        "path": "./bray_output\\page_26\\page_26_region_0.png",
+        "width": 1846,
+        "height": 1205,
+        "source": "rendered_region",
+        "bbox": [
+          192,
+          299,
+          2038,
+          1504
+        ],
+        "caption": "2"
+      }
+    ],
+    "27": [
+      {
+        "page": 27,
+        "path": "./bray_output\\page_27\\page_27_region_1.png",
+        "width": 859,
+        "height": 898,
+        "source": "rendered_region",
+        "bbox": [
+          191,
+          628,
+          1050,
+          1526
+        ],
+        "caption": "m"
+      },
+      {
+        "page": 27,
+        "path": "./bray_output\\page_27\\page_27_region_0.png",
+        "width": 520,
+        "height": 244,
+        "source": "rendered_region",
+        "bbox": [
+          344,
+          2686,
+          864,
+          2930
+        ],
+        "caption": "M"
+      }
+    ]
+  }
+}
